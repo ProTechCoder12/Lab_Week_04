@@ -1,4 +1,3 @@
-# Hasil Tugas
-[Klik di sini untuk melihat semua screenshot](https://postimg.cc/gallery/F4gBzV6/b0492bbd)
+# Hasil Tugas Week 4
 
-<a href="https://github.com/ProTechCoder12/Lab_Week_04">Lihat Repository</a>
+[![Screenshot Cover](https://i.postimg.cc/43YZgbCX/Screenshot-2025-09-08-170804.png)](https://postimg.cc/gallery/F4gBzV6/b0492bbd)
